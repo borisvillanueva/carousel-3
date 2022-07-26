@@ -86,6 +86,14 @@
     transition: background-color 0.5s ease;
 }
 
+.dots-warning {
+    color: #010112;
+    font-size: 14px;
+    padding: 10px 14px;
+    text-align: center;
+    top: 0;
+}
+
 .enable,
 .dots:hover {
     background-color: #717161;
